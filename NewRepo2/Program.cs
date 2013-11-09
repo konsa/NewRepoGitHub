@@ -9,6 +9,8 @@ namespace NewRepo2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo Git!");
+            Console.ReadLine();
         }
     }
 }
